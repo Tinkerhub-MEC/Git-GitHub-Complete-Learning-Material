@@ -6,7 +6,7 @@
 
 ## 3. Git Download
 
-## 4. "git config"
+## 4. Git config
 
 ## 5. Git Init
 
@@ -27,6 +27,20 @@
 ## 13. Git status
 
 ## 14. Git merge
+
+## 15. Git clone
+
+## 16. GitHub Fork
+
+## 17. Git pull
+
+## 18. Pull request
+
+## 19. Merge Pull request
+
+## 20. Fetch & Merge
+
+## 21. Github Pages
 
 
 
