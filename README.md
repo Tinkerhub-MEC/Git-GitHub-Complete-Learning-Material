@@ -10,13 +10,13 @@
 
 ## 5. Git Init
 
-      This is basically performed to initialise a folder/repository so as to perform git operations like adding, committing etc.
-      Inorder to initialise local repositry with git we can run the following command to the respective folder location using terminal.
+This is basically performed to initialise a folder/repository so as to perform git operations like adding, committing etc.
+Inorder to initialise local repositry with git we can run the following command to the respective folder location using terminal.
       ```bash
       git init
       ```
-      press enter...
-      Great... now your local repository has been initialized with git.
+press enter...
+Great... now your local repository has been initialized with git.
 
 ## 6. Git add
 
