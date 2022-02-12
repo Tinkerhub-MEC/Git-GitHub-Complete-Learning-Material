@@ -12,7 +12,7 @@ GitHub’s interface is user-friendly enough so even novice coders can take adva
 GitHub is so user-friendly, though, that some people even use GitHub to manage other types of projects – like writing books.
 Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.
 
-[a link](https://github.com/)
+[GitHub](https://github.com/)
 
 ## 3. Git Download
 
@@ -47,6 +47,17 @@ Great... now your local repository has been initialized with git.
 ## 14. Git merge
 
 ## 15. Git clone
+
+This feature helps us to create a copy of an existing project from github  in our local machine. <br>
+By doing so we can try out new aditional features which can help the project work in a better way, see the output of a code, to view the source code of the project etc.<br>
+The command to be used is :<br>
+```git clone REPOSITORY_URL``` <br>
+This "REPOSITORY_URL" can be copied from the url tab of the repective repository or by simply clicking that "code" button they provide us with the copy button.<br>
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/75477017/153696270-27381fba-2bd5-4b5c-9335-3e6d4bf7d741.png">
+
+
+
+
 
 ## 16. GitHub Fork
 
