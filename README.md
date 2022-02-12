@@ -63,6 +63,10 @@ This command will display the last commits.
 
 ## 16. GitHub Fork
 
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.<br>
+Once you have forked a repo, you own your forked copy. This means that you can edit the contents of your forked repository without impacting the parent repo.<br>
+You can fork any repo by clicking the fork button in the upper right hand corner of a repo page.
+
 ## 17. Git pull
 
 ## 18. Pull request
