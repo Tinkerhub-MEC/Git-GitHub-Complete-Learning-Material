@@ -69,6 +69,11 @@ You can fork any repo by clicking the fork button in the upper right hand corner
 
 ## 17. Git pull
 
+The git pull command is used to fetch and download content from the tracking remote repository and immediately update the local repository to match that content.<br>
+The git pull command is actually a combination of two other commands, git fetch followed by git merge<br>
+The command used to pull recent commits from the tracking remote branch is:<br><br>
+```git pull``` <br>
+
 ## 18. Pull request
 
 ## 19. Merge Pull request
