@@ -42,6 +42,10 @@ Great... now your local repository has been initialized with git.
 
 ## 12. Git log
 
+Git log is a utility tool to review and read a history of everything that happens to a repository. Generally, the git log is a record of commits.<br>
+```git log``` <br>
+The above command will display the last commits.
+
 ## 13. Git status
 
 ## 14. Git merge
