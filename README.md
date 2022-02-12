@@ -61,6 +61,10 @@ This command will display the last commits.
 
 ## 15. Git clone
 
+This feature helps us to create a copy of a repository in our local system from the GitHub.<br>
+By doing so we can test that code and see the output, if we want we can make additional features etc.<br>
+
+
 ## 16. GitHub Fork
 
 ## 17. Git pull
