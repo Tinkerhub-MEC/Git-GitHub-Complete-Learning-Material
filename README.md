@@ -84,9 +84,16 @@ To create a pull request:<br>
 3. Click the Compare & pull request button<br>
 4. Click Create pull request to open a new pull request<br>
 
-
-
 ## 19. Merge Pull request
+
+Merge a pull request into the upstream branch when work is completed. Anyone with push access to the repository can complete the merge.<br>
+To merge a pull request:<br>
+1. Under your repository name, click Pull requests.<br>
+2. In the "Pull Requests" list, click the pull request you'd like to merge.<br>
+3. Choose the merge options for your repository.<br>
+4. If prompted, type a commit message, or accept the default message.<br>
+5. Click Confirm merge
+6. Optionally, delete the branch. This keeps the list of branches in your repository tidy.
 
 ## 20. Fetch & Merge
 
