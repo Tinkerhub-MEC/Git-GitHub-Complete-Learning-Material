@@ -76,6 +76,16 @@ The command used to pull recent commits from the tracking remote branch is:<br><
 
 ## 18. Pull request
 
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.<br>
+Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.<br>
+To create a pull request:<br>
+1. Make your changes in the forked repository/new branch in the same repository<br>
+2. Push the changes back to your repo<br>
+3. Click the Compare & pull request button<br>
+4. Click Create pull request to open a new pull request<br>
+
+
+
 ## 19. Merge Pull request
 
 ## 20. Fetch & Merge
