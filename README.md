@@ -72,7 +72,8 @@ You can fork any repo by clicking the fork button in the upper right hand corner
 The git pull command is used to fetch and download content from the tracking remote repository and immediately update the local repository to match that content.<br>
 The git pull command is actually a combination of two other commands, git fetch followed by git merge<br>
 The command used to pull recent commits from the tracking remote branch is:<br><br>
-```git pull``` <br>
+```git pull origin BRANCH_NAME``` <br>
+BRANCH_NAME is the name of the branch to which pull function has to be done
 
 ## 18. Pull request
 
@@ -92,7 +93,7 @@ To merge a pull request:<br>
 2. In the "Pull Requests" list, click the pull request you'd like to merge.<br>
 3. Choose the merge options for your repository.<br>
 4. If prompted, type a commit message, or accept the default message.<br>
-5. Click Confirm merge
+5. Click Confirm merge.<br>
 6. Optionally, delete the branch. This keeps the list of branches in your repository tidy.
 
 ## 20. Fetch & Merge
