@@ -45,7 +45,8 @@ The Git Checkout command is used to switch between branches in a repository.<br>
 ## 12. Git log
 
 Git log is a utility tool to review and read a history of everything that happens to a repository. Generally, the git log is a record of commits.<br>
-```git log```     This command will display the last commits.
+```git log```    <br>
+This command will display the last commits.
 
 ## 13. Git status
 
