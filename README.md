@@ -39,14 +39,13 @@ Great... now your local repository has been initialized with git.
 ## 11. Git Checkout
 
 The Git Checkout command is used to switch between branches in a repository.<br>
-```git checkout branch_name```  This command is used to switch from one branch to another.
-```git checkout -b branch_name```  This command creates a new branch and also switches to it.
+```git checkout branch_name```      This command is used to switch from one branch to another.<br>
+```git checkout -b branch_name```   This command creates a new branch and also switches to it.
 
 ## 12. Git log
 
 Git log is a utility tool to review and read a history of everything that happens to a repository. Generally, the git log is a record of commits.<br>
-```git log``` <br>
-The above command will display the last commits.
+```git log```     This command will display the last commits.
 
 ## 13. Git status
 
