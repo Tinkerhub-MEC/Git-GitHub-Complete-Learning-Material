@@ -131,12 +131,9 @@ Steps to host:<br>
     2. Go to repository settings of that repository and click "pages".<br>
     <img width="483" alt="image" src="https://user-images.githubusercontent.com/75477017/153762420-2d4cd2f8-00dd-4586-9037-4a371372b4a1.png"><br>
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/75477017/153762505-61efdaa2-4cf8-4be1-8dba-d47c11f3ff33.png"><br>
-
     3. In that source option change that from none to master(or the branch name which you want to delpoy).<br>
     <img width="527" alt="image" src="https://user-images.githubusercontent.com/75477017/153762612-967c7640-8e49-4f25-bfc2-4acae50dc7f6.png"><br>
-
     4. Now save it and wait for few seconds.<br>
-    
     5. Now we can see a url that gets popped up this will be the url of our public website.<br>
     <img width="510" alt="image" src="https://user-images.githubusercontent.com/75477017/153762699-4f63fde5-de37-4716-bfcf-5b1a8f12d999.png"><br>
 
