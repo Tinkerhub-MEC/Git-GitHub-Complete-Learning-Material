@@ -32,7 +32,7 @@ Inorder to initialise local repositry with git we can run the following command 
 ```git init```<br>
       
 press enter...<br>
-Great... now your local repository has been initialized with git.
+Great... now your local repository has been initialized with git.<br>
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/75477017/153740951-d07aa7ec-e361-4681-8c27-e26542dc6026.png">
 
 
