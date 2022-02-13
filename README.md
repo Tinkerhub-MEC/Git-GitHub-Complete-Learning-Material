@@ -58,7 +58,7 @@ The git push command is used to upload local repository content to a remote repo
 
 ### 10. Git branch
 Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. ... Instead of copying files from directory to directory, Git stores a branch as a reference to a commit.</br>
-```git branch```shows the list of branches in your project<br> 
+```git branch``` shows the list of branches in your project<br> 
 ```git branch new-branch-name``` creates a new branch<br>
 ```git checkout branch-name``` switches the branch to your prefered one.
 
