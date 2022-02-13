@@ -57,6 +57,11 @@ A remote in Git is basically a bookmark for a different repository from which yo
 The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. ... Remote branches are configured using the git remote command. 
 
 ### 10. Git branch
+Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. ... Instead of copying files from directory to directory, Git stores a branch as a reference to a commit.
+```git branch```<br> shows the list of branches in your project
+```git branch new-branch-name```<br> creates a new branch
+```git checkout branch-name```<br> switches the branch to your prefered one.
+
 
 ### 11. Git Checkout
 
