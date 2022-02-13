@@ -45,12 +45,16 @@ Great... now your local repository has been initialized with git.<br>
 
 
 ### 6. Git add
+The git add command is used to add file contents to the Index (Staging Area).This command updates the current content of the working tree to the staging area. It also prepares the staged content for the next commit. Every time we add or update any file in our project, it is required to forward updates to the staging area.
 
 ### 7. Git commit 
+After you do changes in your code you will do "commit". Commit set a message about the changes you were done. The commit also saves a revision of the code and you can revert the code to any version anytime in one click.
 
 ### 8. Git remote
+A remote in Git is basically a bookmark for a different repository from which you may wish to pull or push code. The bookmarked repository may be on your local computer in a different folder, on remote server, or it may even be the repository itself 
 
 ### 9. Git push
+The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. ... Remote branches are configured using the git remote command. 
 
 ### 10. Git branch
 
