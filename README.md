@@ -20,6 +20,11 @@ Additionally, anyone can sign up and host a public code repository for free, whi
 
 ## 3. Git Download
 
+For downloading Git first go to <a href="https://git-scm.com/downloads" target="blank">https://git-scm.com/downloads</a> and download the installer as per the instruction given in the webpage for the required OS.Next open the installer and proceed with all the default settings.And after successful installation , you can verify it by typing the following command in terminal : <br>
+
+```git --version```<br>
+press enter...<br>
+If something version number is displayed it means that git has been successfully installed in your system , if not try installing git again by following the steps given above.
 ## Git Commands
 
 ### 4. Git config
