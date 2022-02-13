@@ -1,6 +1,7 @@
 # Git-GitHub-Complete-Learning-Material
 
-## 1. What is Git
+## Intruduction
+### 1. What is Git
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.<br>
 Git has many advantages, it is used to track changes in the source code and it allows multiple developers to work together. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.Git is free and open-source software distributed under the GPL-2.0-only license.
