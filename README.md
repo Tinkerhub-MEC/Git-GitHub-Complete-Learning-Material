@@ -113,6 +113,12 @@ To merge a pull request:<br>
 ### 20. Fetch & Merge
 
 ### 21. Github Pages
-
-
-
+This is basically a free front end web hosting service provided by GitHub .<br>
+We can even add customised domain names to our websites.<br>
+This service can give a glance to clients  on how our web based projects work.<br>
+Steps to host:<br>
+    1. Push your code to GitHub using git commands from terminal 
+    2. Go to repository settings of that repository and click "pages"
+    3. In that source option change that from none to master(or the branch name which you want to delpoy).
+    4. Now save it and wait for few seconds.
+    5. Now we can see a url that gets popped up this will be the url of our public website.
