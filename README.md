@@ -2,16 +2,21 @@
 
 ## Introduction
 ### 1. What is Git
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/75477017/153740913-bac0938d-2ba1-449a-9020-4dd6549433a4.png">
+
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.<br>
-Git has many advantages, it is used to track changes in the source code and it allows multiple developers to work together. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.Git is free and open-source software distributed under the GPL-2.0-only license.
+It can be used to  track changes in the source code when multiple developers to work together. <br>
+When multiple developers work together in a given project it's version keeps on changing and this can be controlled and managed by git.<br>
+Git is free and open-source software distributed under the GPL-2.0-only license.<br>
 
 ### 2. What is GitHub
+<img width="122" alt="image" src="https://user-images.githubusercontent.com/75477017/153740919-16cd4941-a593-4b7c-b789-d0735b8aa3cb.png">
 
-GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration.
-GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.
-GitHub is so user-friendly, though, that some people even use GitHub to manage other types of projects – like writing books.
-Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.
+
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration.<br>
+GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.<br>
+Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.<br>
 
 ## 3. Git Download
 
@@ -28,6 +33,8 @@ Inorder to initialise local repositry with git we can run the following command 
       
 press enter...<br>
 Great... now your local repository has been initialized with git.
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/75477017/153740951-d07aa7ec-e361-4681-8c27-e26542dc6026.png">
+
 
 ### 6. Git add
 
