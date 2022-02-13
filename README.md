@@ -74,7 +74,20 @@ This command will display the last commits.
 
 ### 13. Git status
 
+The git status command is used to display the state of the repository and staging area. It allows us to see the tracked, untracked files and changes.<br>
+This command will not show any commit records or information.<br>
+
+```git status```  <br>
+
+This command lists all the files that have to be committed.
+
 ### 14. Git merge
+
+Git merging combines sequences of commits into one unified history of commits.<br>
+
+```git merge branch_name```   <br>
+
+This command merges the specified branch’s history into the current branch.
 
 ### 15. Git clone
 
