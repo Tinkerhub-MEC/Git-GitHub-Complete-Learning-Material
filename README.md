@@ -82,8 +82,7 @@ This feature helps us to create a copy of a repository in our local system from 
 By doing so we can test that code and see the output, if we want we can make additional features etc.<br>
 ```git clone REPOSITORY_URL```<br>
 This REPOSITORY_URL will be the url of the required repository which is to be cloned to our local machine.<br>
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/75477017/153763132-79d6d8f2-b5e4-41b0-8c33-1e0a848d2590.png">
-
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/75477017/153763383-aa08f5b4-f5e5-4954-98e5-d53926d641d3.png">
 
 ## Some GitHub Processes 
 ### 16. GitHub Fork
