@@ -66,8 +66,8 @@ BRANCH_NAME is the name of the branch from which the code has to be pushed.<br>
 ### 10. Git branch
 Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. ... Instead of copying files from directory to directory, Git stores a branch as a reference to a commit.</br>
 ```git branch``` shows the list of branches in your project<br> 
-```git branch new-branch-name``` creates a new branch<br>
-```git checkout branch-name``` switches the branch to your prefered one.
+```git branch NEW_BRANCH_NAME``` creates a new branch<br>
+```git checkout BRANCH_NAME``` switches the branch to your prefered one.
 
 
 ### 11. Git Checkout
