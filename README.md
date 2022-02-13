@@ -45,16 +45,23 @@ Great... now your local repository has been initialized with git.<br>
 
 
 ### 6. Git add
-The git add command is used to add file contents to the Index (Staging Area).This command updates the current content of the working tree to the staging area. It also prepares the staged content for the next commit. Every time we add or update any file in our project, it is required to forward updates to the staging area.
+The git add command is used to add file contents to the Index (Staging Area).This command updates the current content of the working tree to the staging area.<br> It also prepares the staged content for the next commit. <br>Every time we add or update any file in our project, it is required to forward updates to the staging area.<br>
+```git add --all```
 
 ### 7. Git commit 
-After you do changes in your code you will do "commit". Commit set a message about the changes you were done. The commit also saves a revision of the code and you can revert the code to any version anytime in one click.
+After you do changes in your code you will do "commit".<br> Commit set a message about the changes you were done. <br>The commit also saves a revision of the code and you can revert the code to any version anytime in one click.<br>
+```git commit -m"REQUIRED_COMMIT_MESSAGE"```<br>
+REQUIRED_COMMIT_MESSAGE is the one which we add to identify each commits that we hae done.<br>
 
 ### 8. Git remote
-A remote in Git is basically a bookmark for a different repository from which you may wish to pull or push code. The bookmarked repository may be on your local computer in a different folder, on remote server, or it may even be the repository itself 
+A remote in Git is basically a bookmark for a different repository from which you may wish to pull or push code. <br>The bookmarked repository may be on your local computer in a different folder, on remote server, or it may even be the repository itself.<br>
+```git remote add origin REPOSITORY_URL```<br>
+ REPOSITORY_URL is the url of the repository to which we have to push the code.<br>
 
 ### 9. Git push
-The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. ... Remote branches are configured using the git remote command. 
+The git push command is used to upload local repository content to a remote repository.<br> Pushing is how you transfer commits from your local repository to a remote repo.<br>Remote branches are configured using the git remote command. <br>
+```git push origin BRANCH_NAME```<br>
+BRANCH_NAME is the name of the branch from which the code has to be pushed.<br>
 
 ### 10. Git branch
 Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. ... Instead of copying files from directory to directory, Git stores a branch as a reference to a commit.</br>
