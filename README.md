@@ -30,6 +30,7 @@ If something version number is displayed it means that git has been successfully
 ## Git Commands
 
 ### 4. Git config
+The git config command is a convenience function that is used to set Git configuration values on a global or local project level. These configuration levels correspond to .gitconfig text files. Executing git config will modify a configuration text file. 
 
 ### 5. Git Init
 
