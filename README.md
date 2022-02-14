@@ -158,6 +158,10 @@ To merge a pull request:<br>
 ### Here is a funny video which shows the effect of merge XD :)<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dygYh2qsx64/0.jpg)](https://www.youtube.com/watch?v=dygYh2qsx64)
 ### 20. Fetch & Merge
+This is basically a feature given by github to update our forked repository with that of original one.<br>
+When someone commits to original repo or some pull requests get accepted, those changes won't be reflected to forked copy.<br>
+So in order to do so we can simply click that "fetch-upstream" button and click "fetch and merge".<br><br>
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/75477017/153888668-152b16a0-fae1-4b2d-ad8f-a08421c11363.png">
 
 ### 21. Github Pages
 This is basically a free front end web hosting service provided by GitHub .<br>
