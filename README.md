@@ -156,8 +156,7 @@ To merge a pull request:<br>
 6. Optionally, delete the branch. This keeps the list of branches in your repository tidy.<br>
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/75477017/153741072-62e12f18-8dbd-40f5-8f01-667abb452fcd.png"><br>
 ### Here is a funny video which shows the effect of merge XD :)<br>
- [![Watch the video](https://i.imgur.com/fHjcfYM.mp4)](https://youtu.be/vt5fpE0bzSY)
-
+ !(image)[https://static01.bbi.io/2Wt9Tk.gif]
 ### 20. Fetch & Merge
 
 ### 21. Github Pages
