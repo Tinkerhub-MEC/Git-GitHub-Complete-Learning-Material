@@ -21,8 +21,10 @@ Additionally, anyone can sign up and host a public code repository for free, whi
 ## 3. Git Download
 
 For downloading Git first go to <a href="https://git-scm.com/downloads" target="blank">https://git-scm.com/downloads</a> 
-<img src="https://www.testingdocs.com/wp-content/uploads/Git-Download-Windows-11-OS.png"><br>
+
 and download the installer as per the instruction given in the webpage for the required OS.Next open the installer and proceed with all the default settings.And after successful installation , you can verify it by typing the following command in terminal : <br><br>
+ <img width="442" alt="image" src="https://user-images.githubusercontent.com/75477017/153890868-b61c415d-ebaf-468f-9472-9535af6c5e6d.png"><br><br>
+
 
 ```git --version```<br><br>
 press enter...<br>
