@@ -1,8 +1,5 @@
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/75477017/153892475-26d8efe2-a74e-47f4-81b8-4ce6c16c3a68.png">
-
-
-
 # Git-GitHub-Complete-Learning-Material
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/75477017/153892475-26d8efe2-a74e-47f4-81b8-4ce6c16c3a68.png">
 
 ## Introduction
 ### 1. What is Git
