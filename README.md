@@ -98,6 +98,8 @@ This command will not show any commit records or information.<br>
 
 This command lists all the files that have to be committed.
 
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/75128235/153767540-97aa3bb6-68d3-459c-96d0-b1dd8cab6ad6.png">
+
 ### 14. Git merge
 
 Git merging combines sequences of commits into one unified history of commits.<br>
@@ -106,13 +108,15 @@ Git merging combines sequences of commits into one unified history of commits.<b
 
 This command merges the specified branch’s history into the current branch.
 
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/75128235/153768678-49a87164-f0df-47ec-8dd4-789cfbbdc67f.png">
+
 ### 15. Git clone
 
 This feature helps us to create a copy of a repository in our local system from the GitHub.<br>
 By doing so we can test that code and see the output, if we want we can make additional features etc.<br>
-```git clone REPOSITORY_URL```<br>
-This REPOSITORY_URL will be the url of the required repository which is to be cloned to our local machine.<br>
-<img width="552" alt="image" src="https://user-images.githubusercontent.com/75477017/153763383-aa08f5b4-f5e5-4954-98e5-d53926d641d3.png">
+```git clone REPOSITORY_URL```<br><br>
+This REPOSITORY_URL will be the url of the required repository which is to be cloned to our local machine.<br><br>
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/75477017/153763383-aa08f5b4-f5e5-4954-98e5-d53926d641d3.png"><br>
 
 ## Some GitHub Processes 
 ### 16. GitHub Fork
