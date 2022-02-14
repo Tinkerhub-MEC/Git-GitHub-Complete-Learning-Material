@@ -151,7 +151,7 @@ To merge a pull request:<br>
 5. Click Confirm merge.<br>
 6. Optionally, delete the branch. This keeps the list of branches in your repository tidy.<br>
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/75477017/153741072-62e12f18-8dbd-40f5-8f01-667abb452fcd.png"><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dygYh2qsx64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=dygYh2qsx64)
 
 
 ### 20. Fetch & Merge
