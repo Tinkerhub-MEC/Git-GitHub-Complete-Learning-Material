@@ -98,6 +98,8 @@ This command will not show any commit records or information.<br>
 
 This command lists all the files that have to be committed.
 
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/75128235/153767540-97aa3bb6-68d3-459c-96d0-b1dd8cab6ad6.png">
+
 ### 14. Git merge
 
 Git merging combines sequences of commits into one unified history of commits.<br>
@@ -105,6 +107,8 @@ Git merging combines sequences of commits into one unified history of commits.<b
 ```git merge branch_name```   <br>
 
 This command merges the specified branch’s history into the current branch.
+
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/75128235/153768678-49a87164-f0df-47ec-8dd4-789cfbbdc67f.png">
 
 ### 15. Git clone
 
