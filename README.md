@@ -184,7 +184,8 @@ Steps to host:<br><br>
     4. Now save it and wait for few seconds.<br><br>
     5. Now we can see a url that gets popped up this will be the url of our public website.<br><br>
     <img width="510" alt="image" src="https://user-images.githubusercontent.com/75477017/153762699-4f63fde5-de37-4716-bfcf-5b1a8f12d999.png"><br><br>
-### Documentation made and maintained by: <br>Achyuth Mohan,Adam Oommen Jacob, Adithya Ajith,Jaison Dennis, Jithin Jagadeesh,Lisa VC , Jagannath E Shahi,Chriz Roy
+### Documentation made and maintained by: <br>
+Achyuth Mohan,Adam Oommen Jacob, Adithya Ajith,Jaison Dennis, Jithin Jagadeesh,Lisa VC , Jagannath E Shahi,Chriz Roy
 
 
     
